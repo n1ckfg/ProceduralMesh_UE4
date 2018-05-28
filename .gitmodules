@@ -1,0 +1,3 @@
+[submodule "Plugins/ProceduralMesh"]
+	path = Plugins/ProceduralMesh
+	url = https://github.com/n1ckfg/ProceduralMesh
