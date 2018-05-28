@@ -7,11 +7,13 @@
 		{
 			"Name": "ProceduralMesh_UE4",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"ProceduralMeshComponent"
-			]
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMesh",
+			"Enabled": true
 		}
 	]
 }

@@ -8,7 +8,7 @@
 #include "MyActor.generated.h"
 
 UCLASS()
-class PROCEDURALMESH_UE4_API AMyActor : public AActor
+class PROCEDURALMESH_API AMyActor : public AActor
 {
 	GENERATED_BODY()
 	
